@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Shane-dev-create/master/assets/Shane%20dev%20create%20Banner.png">
+<img src="https://iconscout.com/lottie/businessman-waving-hand-4788644">
 
 <h2> Hey there! I'm Shane.</h2>
 
