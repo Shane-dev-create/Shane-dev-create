@@ -50,7 +50,7 @@
 
 <p align="center">
 <a href="https://twitter.com/shanespeare01"><img alt="Twitter" src="https://img.shields.io/twitter/url?color=1DA1F2&label=FOLLOW%20ME&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fshanespeare01"></a>
-<a href="https://www.linkedin.com/in/gilbert-s-710786151/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0072B1?logo=linkedin&logoColor=#0A66C2&style=flat-square"></a>
+<a href="https://www.linkedin.com/in/gilbert-s-710786151/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Shane-333333?logo=linkedin&logoColor=0A66C2&logoWidth=40&style=flat-square"></a>
 </p>
 
 ⭐️ From [Shane](https://github.com/Shane-dev-create)
