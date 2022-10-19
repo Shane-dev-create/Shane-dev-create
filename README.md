@@ -50,7 +50,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-< a href="https://twitter.com/shanespeare01"><img alt="Twitter" src="https://img.shields.io/twitter/follow/shanespeare01?style=social"></a>
+<a href="https://twitter.com/shanespeare01"><img alt="Twitter" src="https://img.shields.io/twitter/follow/shanespeare01?style=social"></a>
 </p>
 
 ⭐️ From [Shane](https://github.com/Shane-dev-create)
