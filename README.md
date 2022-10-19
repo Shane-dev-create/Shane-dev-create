@@ -47,5 +47,10 @@
 </a>
 
 <br/>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://img.shields.io/twitter/follow/shanespear01?style=social />
+</p>
 
 ⭐️ From [Shane](https://github.com/Shane-dev-create)
