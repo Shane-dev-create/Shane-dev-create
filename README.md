@@ -1,4 +1,4 @@
-<img src="https://iconscout.com/lottie/businessman-waving-hand-4788644">
+![Greeting](https://iconscout.com/lottie/businessman-waving-hand-4788644)
 
 <h2> Hey there! I'm Shane.</h2>
 
@@ -15,7 +15,7 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin&logoColor=#7F52FF)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=A8B9CC)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -50,7 +50,7 @@
 
 <p align="center">
 <a href="https://twitter.com/shanespeare01"><img alt="Twitter" src="https://img.shields.io/twitter/url?color=1DA1F2&label=FOLLOW%20ME&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fshanespeare01"></a>
-<a href="https://www.linkedin.com/in/gilbert-s-710786151/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0072B1?logo=linkedin&logoColor=#0A66C2&style=for-the-badge&logoWidth=30"></a>
+<a href="https://www.linkedin.com/in/gilbert-s-710786151/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0072B1?logo=linkedin&logoColor=#0A66C2&style=flat-square"></a>
 </p>
 
 ⭐️ From [Shane](https://github.com/Shane-dev-create)
