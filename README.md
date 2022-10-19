@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/Shane-dev-create/Shane-dev-create/master/assets/Shane%20dev%20create%20Banner.png">
+<img src="https://raw.githubusercontent.com/Shane-dev-create/master/assets/Shane%20dev%20create%20Banner.png">
 
-<h2> Hey there! I'm Gilbert.</h2>
+<h2> Hey there! I'm Shane.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -14,7 +14,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 - 🌐 &nbsp;
@@ -49,4 +49,4 @@
 
 <br/>
 
-⭐️ From [Shane-dev-create](https://github.com/Shane-dev-create)
+⭐️ From [Shane](https://github.com/Shane-dev-create)
