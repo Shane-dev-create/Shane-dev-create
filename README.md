@@ -15,6 +15,7 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin&logoColor=#7F52FF)
+  ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift&logoColor=F05138)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=A8B9CC)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
